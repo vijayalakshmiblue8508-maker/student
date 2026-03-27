@@ -67,20 +67,6 @@ Correlation between different features
 
 ** EDA provides meaningful insights and helps in better decision-making.
 
-** Machine Learning Model
-
-A supervised machine learning model is used to predict student performance.
-
-** Model Used:
-Linear Regression (or Random Forest)
-** Target Variable:
-Total Marks / Average Performance
-** Evaluation Metrics:
-Mean Squared Error (MSE)
-R² Score
-
-** The model is trained to predict student performance with good accuracy.
-
 ** Visualization
 
 Visualization helps in presenting data insights in a clear and understandable way.
@@ -142,6 +128,22 @@ Course: [BCA]
 Project Title: Student Performance Analysis
 Year: 2026
 
+
+output screenshots
+
+<img width="637" height="479" alt="Screenshot 2026-03-27 100022" src="https://github.com/user-attachments/assets/ac340fac-7428-4df3-9078-c3c92a0dbe95" />
+<img width="593" height="493" alt="Screenshot 2026-03-27 100126" src="https://github.com/user-attachments/assets/6f3129f2-b337-42a9-857b-06ae0417ca0d" />
+<img width="577" height="506" alt="image" src="https://github.com/user-attachments/assets/29e40378-ad9d-40e5-ad86-702f4fbcf50d" />
+<img width="679" height="482" alt="image" src="https://github.com/user-attachments/assets/36467c2c-6d8c-4845-b7f5-769f98ac59b0" />
+<img width="945" height="488" alt="image" src="https://github.com/user-attachments/assets/81050cbd-66de-4140-8a63-5b09ff8f3443" />
+<img width="668" height="470" alt="image" src="https://github.com/user-attachments/assets/3a969aa7-882e-4064-b229-71e033e69822" />
+<img width="657" height="487" alt="image" src="https://github.com/user-attachments/assets/ac4feb10-dc8c-4dea-af5b-9e83c58010b7" />
+
+
 ** Conclusion
 
 This project demonstrates how data science and machine learning can be used to analyze student performance and generate valuable insights. It helps in understanding academic patterns and provides a foundation for building intelligent educational systems.
+
+
+
+
